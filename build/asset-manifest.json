@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/dashboard.linguo.id/static/js/main.a02fe52a.chunk.js",
+    "main.js.map": "/dashboard.linguo.id/static/js/main.a02fe52a.chunk.js.map",
+    "runtime-main.js": "/dashboard.linguo.id/static/js/runtime-main.75df7a4b.js",
+    "runtime-main.js.map": "/dashboard.linguo.id/static/js/runtime-main.75df7a4b.js.map",
+    "static/css/2.598ea7c3.chunk.css": "/dashboard.linguo.id/static/css/2.598ea7c3.chunk.css",
+    "static/js/2.d8027144.chunk.js": "/dashboard.linguo.id/static/js/2.d8027144.chunk.js",
+    "static/js/2.d8027144.chunk.js.map": "/dashboard.linguo.id/static/js/2.d8027144.chunk.js.map",
+    "static/js/3.850d6597.chunk.js": "/dashboard.linguo.id/static/js/3.850d6597.chunk.js",
+    "static/js/3.850d6597.chunk.js.map": "/dashboard.linguo.id/static/js/3.850d6597.chunk.js.map",
+    "index.html": "/dashboard.linguo.id/index.html",
+    "static/css/2.598ea7c3.chunk.css.map": "/dashboard.linguo.id/static/css/2.598ea7c3.chunk.css.map",
+    "static/js/2.d8027144.chunk.js.LICENSE.txt": "/dashboard.linguo.id/static/js/2.d8027144.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75df7a4b.js",
+    "static/css/2.598ea7c3.chunk.css",
+    "static/js/2.d8027144.chunk.js",
+    "static/js/main.a02fe52a.chunk.js"
+  ]
+}
